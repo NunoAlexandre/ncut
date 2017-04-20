@@ -1,0 +1,5 @@
+[package]
+
+name = "ncut"
+version = "0.0.1"
+authors = [ "Nuno Alexandre <nunombalexandre@gmail.com>" ]
